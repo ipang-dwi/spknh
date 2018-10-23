@@ -4,7 +4,7 @@ Sistem Pengambil Keputusan (SPK) / DSS "Pemilihan Guru Terbaik Pada MTs Nurul Ha
 > Preview dan demo cekidot https://lab.firstplato.com/spknh dan https://www.youtube.com/watch?v=vOwILz48a2o
 
 Semoga bisa bermanfaat, bagi yang ingin mempelajari :
-- Web programming, terutama native PHP5, Jquery dan CSS3
+- Web programming, terutama PHP OOP dan konsep MVC dengan framework CodeIgniter, Jquery dan CSS3
 - Metode Topsis untuk Sistem Pendukung Keputusan (SPK) / Decission Support System (DSS)
 
 Instalasi :
