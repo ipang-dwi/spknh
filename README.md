@@ -1,6 +1,6 @@
 # spknh
 
-<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 Sistem Pengambil Keputusan (SPK) / DSS "Pemilihan Guru Terbaik Pada MTs Nurul Hayat Boyolali Tiap Periode", berbasis Web metode TOPSIS dengan Sub Kriteria, multi Periode dan Multi Login System - www.firstplato.com
 
